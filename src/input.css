@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+  /* Registrando as cores da Torre Participações */
+  --color-torreBlue: #0047BB;
+  --color-torreCyan: #00D1FF;
+  --color-torreGray: #F0F4F8;
+  /* --color-torreGray: #F4F7FA; */
+}
